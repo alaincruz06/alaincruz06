@@ -7,7 +7,7 @@
 
 
 <h3 align="center">Software Developer | Mobile Application Developer | Software Engineering Teacher</h3>
-<h2 align="center">I have over 4 years of experience working in mobile apps development and multiplatform apps with the Flutter Framework. Currently, I work as a Mobile Developer at Parque Científico Tecnológico de la Habana, where I help building unique products that are helping people achieve more in their lives with a sustainability approach! I'm deeply passionate about creating loved and trusted products that help people improve their lives and achieve their goals.
+<h2 align="center">I have over 5 years of experience working in mobile apps development and multiplatform apps with the Flutter Framework. Currently, I work as a Mobile Developer at Parque Científico Tecnológico de la Habana, where I help building unique products that are helping people achieve more in their lives with a sustainability approach! I'm deeply passionate about creating loved and trusted products that help people improve their lives and achieve their goals.
 
 If you catch me outside of work, I'm a theater enthusiastic and an avid lover of running or photography!
 
@@ -20,7 +20,6 @@ I also like meeting new people over a pizza or a spaguettis meal. Feel free to r
 <h3 align="left">⚡ GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaincruz06&show_icons=true&locale=en&layout=compact&theme=dracula&" alt="alaincruz06" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alaincruz06&theme=dracula&" alt="alaincruz06" /></p>
 
 
 
