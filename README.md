@@ -11,7 +11,7 @@
 
 If you catch me outside of work, I'm a theater enthusiastic and an avid lover of running or photography!
 
-I also like meeting new people over a pizza or a spaguettis meal. Feel free to reach out at alaincruz06@gmail.com or DM on LinkedIn <a href="https://linkedin.com/in/alaincruz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaincruz06" height="30" width="40" /></a> or Twitter/X <a href="https://twitter.com/alaincruz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaincruz06" height="30" width="40" /></a>.</h2>
+I also like meeting new people over a pizza or a spaguettis meal. Feel free to reach out at alaincruz06.dev@gmail.com or DM on LinkedIn <a href="https://linkedin.com/in/alaincruz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaincruz06" height="30" width="40" /></a> or Twitter/X <a href="https://twitter.com/alaincruz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaincruz06" height="30" width="40" /></a>.</h2>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
